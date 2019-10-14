@@ -4,7 +4,7 @@ This is the Gift Wrapping Algorithm for computing the convex hull of a given set
 # Preview
 https://editor.p5js.org/amberrprice/full/DtV7EZ_5j
 
-[Algorithm](https://i.ibb.co/Cb7tF6d/Algorithm.png)
+![Algorithm](https://i.ibb.co/Cb7tF6d/Algorithm.png)
 
 # Built With
 * p5.js Web Editor
