@@ -1,5 +1,5 @@
 # Gift-Wrapping-Algorithm
-The Gift Wrapping Algorithm is an application for computing the convex hull of a given set of points in Javascript.. The Gift Wrapping Algorithm is a principle topic in computational geometry.
+The Gift Wrapping Algorithm is an application created with the p5js library. The Gift Wrapping Algorithm is a principle topic in computational geometry.
 
 ![Algorithm](https://i.ibb.co/Cb7tF6d/Algorithm.png)
 
